@@ -1,2 +1,4 @@
 .idea/
 homework-2.iml
+.src/
+!Main.java
